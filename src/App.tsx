@@ -16,6 +16,7 @@ function App() {
         <StatusBar />
       </div>
     </div>
+  )
   );
 }
 
